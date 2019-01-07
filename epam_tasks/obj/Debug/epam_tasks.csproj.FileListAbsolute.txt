@@ -1,0 +1,22 @@
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\obj\Debug\epam_tasks.csprojResolveAssemblyReference.cache
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\bin\Debug\epam_tasks.exe.config
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\bin\Debug\epam_tasks.exe
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\bin\Debug\epam_tasks.pdb
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\obj\Debug\epam_tasks.exe
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\obj\Debug\epam_tasks.pdb
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\bin\Debug\nunit.framework.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\bin\Debug\WebDriver.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\bin\Debug\nunit.framework.xml
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\epam_tasks\bin\Debug\WebDriver.xml
+D:\study\myapp\epam_tasks\bin\Debug\epam_tasks.exe.config
+D:\study\myapp\epam_tasks\bin\Debug\epam_tasks.exe
+D:\study\myapp\epam_tasks\bin\Debug\epam_tasks.pdb
+D:\study\myapp\epam_tasks\bin\Debug\nunit.framework.dll
+D:\study\myapp\epam_tasks\bin\Debug\WebDriver.dll
+D:\study\myapp\epam_tasks\bin\Debug\nunit.framework.xml
+D:\study\myapp\epam_tasks\bin\Debug\WebDriver.xml
+D:\study\myapp\epam_tasks\obj\Debug\epam_tasks.csprojAssemblyReference.cache
+D:\study\myapp\epam_tasks\obj\Debug\epam_tasks.csproj.CoreCompileInputs.cache
+D:\study\myapp\epam_tasks\obj\Debug\epam_tasks.csproj.CopyComplete
+D:\study\myapp\epam_tasks\obj\Debug\epam_tasks.exe
+D:\study\myapp\epam_tasks\obj\Debug\epam_tasks.pdb

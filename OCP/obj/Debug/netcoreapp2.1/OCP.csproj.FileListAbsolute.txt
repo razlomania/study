@@ -1,0 +1,11 @@
+D:\study\myapp\OCP\bin\Debug\netcoreapp2.1\OCP.deps.json
+D:\study\myapp\OCP\bin\Debug\netcoreapp2.1\OCP.runtimeconfig.json
+D:\study\myapp\OCP\bin\Debug\netcoreapp2.1\OCP.runtimeconfig.dev.json
+D:\study\myapp\OCP\bin\Debug\netcoreapp2.1\OCP.dll
+D:\study\myapp\OCP\bin\Debug\netcoreapp2.1\OCP.pdb
+D:\study\myapp\OCP\obj\Debug\netcoreapp2.1\OCP.csprojAssemblyReference.cache
+D:\study\myapp\OCP\obj\Debug\netcoreapp2.1\OCP.csproj.CoreCompileInputs.cache
+D:\study\myapp\OCP\obj\Debug\netcoreapp2.1\OCP.AssemblyInfoInputs.cache
+D:\study\myapp\OCP\obj\Debug\netcoreapp2.1\OCP.AssemblyInfo.cs
+D:\study\myapp\OCP\obj\Debug\netcoreapp2.1\OCP.dll
+D:\study\myapp\OCP\obj\Debug\netcoreapp2.1\OCP.pdb

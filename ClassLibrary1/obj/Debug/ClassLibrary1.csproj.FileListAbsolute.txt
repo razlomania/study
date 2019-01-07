@@ -1,0 +1,20 @@
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\bin\Debug\WebDriver.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\bin\Debug\nunit.framework.xml
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\bin\Debug\WebDriver.xml
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+D:\study\myapp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\study\myapp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\study\myapp\ClassLibrary1\bin\Debug\nunit.framework.dll
+D:\study\myapp\ClassLibrary1\bin\Debug\WebDriver.dll
+D:\study\myapp\ClassLibrary1\bin\Debug\nunit.framework.xml
+D:\study\myapp\ClassLibrary1\bin\Debug\WebDriver.xml
+D:\study\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\study\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\study\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+D:\study\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\study\myapp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

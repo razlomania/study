@@ -1,0 +1,4 @@
+D:\study\myapp\Liskov\obj\Debug\netcoreapp2.1\Liskov.csprojAssemblyReference.cache
+D:\study\myapp\Liskov\obj\Debug\netcoreapp2.1\Liskov.csproj.CoreCompileInputs.cache
+D:\study\myapp\Liskov\obj\Debug\netcoreapp2.1\Liskov.AssemblyInfoInputs.cache
+D:\study\myapp\Liskov\obj\Debug\netcoreapp2.1\Liskov.AssemblyInfo.cs

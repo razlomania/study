@@ -1,0 +1,22 @@
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\bin\Debug\onemoreapp.exe.config
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\bin\Debug\onemoreapp.exe
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\bin\Debug\onemoreapp.pdb
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\obj\Debug\onemoreapp.csprojResolveAssemblyReference.cache
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\obj\Debug\onemoreapp.exe
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\obj\Debug\onemoreapp.pdb
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\bin\Debug\nunit.framework.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\bin\Debug\WebDriver.dll
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\bin\Debug\nunit.framework.xml
+C:\Users\shuo\Documents\Visual Studio 2017\Projects\myapp\onemoreapp\bin\Debug\WebDriver.xml
+D:\study\myapp\onemoreapp\bin\Debug\onemoreapp.exe.config
+D:\study\myapp\onemoreapp\bin\Debug\onemoreapp.exe
+D:\study\myapp\onemoreapp\bin\Debug\onemoreapp.pdb
+D:\study\myapp\onemoreapp\bin\Debug\nunit.framework.dll
+D:\study\myapp\onemoreapp\bin\Debug\WebDriver.dll
+D:\study\myapp\onemoreapp\bin\Debug\nunit.framework.xml
+D:\study\myapp\onemoreapp\bin\Debug\WebDriver.xml
+D:\study\myapp\onemoreapp\obj\Debug\onemoreapp.csprojAssemblyReference.cache
+D:\study\myapp\onemoreapp\obj\Debug\onemoreapp.csproj.CoreCompileInputs.cache
+D:\study\myapp\onemoreapp\obj\Debug\onemoreapp.csproj.CopyComplete
+D:\study\myapp\onemoreapp\obj\Debug\onemoreapp.exe
+D:\study\myapp\onemoreapp\obj\Debug\onemoreapp.pdb
